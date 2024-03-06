@@ -19,4 +19,9 @@ The Keyboard Recorder Chrome Extension allows users to record key presses within
 1. Click on the extension icon in the Chrome toolbar to open the popup window.
 2. Press keys while browsing to record key presses.
 3. Click the "Save Recorded Keys" button in the popup window to save the recorded keys to a text file (recorded_keys.txt).
+4. can see at "https://www.youtube.com/watch?v=aDl5AU8EzaQ".
+![Extension Icon](https://github.com/shreyasingh824/KeyLogger/blob/main/Screenshot%202024-03-07%20021114.png)
+
+
+
    
