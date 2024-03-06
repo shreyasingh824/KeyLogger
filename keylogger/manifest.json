@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Keyboard Recorder",
+    "version": "1.0",
+    "description": "Records key presses within the browser environment.",
+    "permissions": ["activeTab"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["contentScript.js"]
+      }
+    ]
+  }
+  
+  
